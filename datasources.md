@@ -1,4 +1,4 @@
-## Data Sources used to develop LTS Hamilton 
+## Data Sources used to develop LTSHamilton 
 
 **City of Hamilton Open Data Portal** - https://open.hamilton.ca/datasets/f7af2fb9139444a0b3331f4663c16b15_14
 
