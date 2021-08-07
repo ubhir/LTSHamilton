@@ -6,4 +6,4 @@
 
 **Ontario GeoHub** - https://geohub.lio.gov.on.ca/datasets/mnrf::ontario-road-network-orn-segment-with-address
 
-Private street centrelines provided by the City of Hamilton were also used to create the LTS Network. 
+The City of Hamilton also provided a private street centreline dataset which was used to create the LTS Network. 
